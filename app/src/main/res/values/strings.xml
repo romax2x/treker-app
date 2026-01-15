@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Treker</string>
+    <string name="goal_name">Goal Name</string>
+    <string name="description">Description</string>
+    <string name="deadline">Deadline</string>
+    <string name="select_deadline">Select Deadline</string>
+    <string name="images">Images (%1$d/3)</string>
+    <string name="goal_image">Goal image %1$d</string>
+    <string name="selected_image">Selected image</string>
+    <string name="add_images">Add Images (%1$d/3)</string>
+    <string name="remove">Remove</string>
+    <string name="add_goal">Add Goal</string>
+    <string name="your_goals">Your Goals</string>
+    <string name="progress">Progress</string>
+    <string name="my_goal">My goal</string>
+    <string name="share">Share</string>
+    <string name="share_goal">Share goal</string>
+    <string name="edit">Edit</string>
+    <string name="edit_goal">Edit Goal</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="goal_name_empty_error">Goal name cannot be empty</string>
+    <string name="failed_to_add_goal">Failed to add goal</string>
+    <string name="media_attribution">Media Attribution</string>
+</resources>
