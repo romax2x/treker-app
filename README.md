@@ -74,4 +74,6 @@ Please use:
 
 ---
 
+## 📄 License
 
+MIT License
