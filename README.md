@@ -44,7 +44,7 @@ The app focuses on simple goal tracking with deadlines, progress, and calendar-b
 ## 🚀 How to run
 
 1. Clone the repository
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/romax2x/treker-app.git
 2.Open in Android Studio
 3.Sync Gradle
 4.Run on emulator or real device
